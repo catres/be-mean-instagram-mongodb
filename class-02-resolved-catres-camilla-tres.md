@@ -112,7 +112,7 @@ autor: Camilla Tres
       "height": 0.6
     }
 
-## Atualização do Larvitar (passo 6)
+## Atualização do Larvitar (passo 7)
     camilla-Mean(mongod-3.0.7) be-mean-pokemons> poke.description = 'tem um chifre que justifica a cara de mal'
     tem um chifre que justifica a cara de mal
     camilla-Mean(mongod-3.0.7) be-mean-pokemons> db.pokemons.save(poke)
@@ -133,5 +133,3 @@ autor: Camilla Tres
       "height": 0.6
     }
     Fetched 1 record(s) in 3ms
-
-    
